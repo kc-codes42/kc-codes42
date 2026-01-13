@@ -73,12 +73,11 @@ I'm a passionate software engineer with expertise in building robust, scalable a
 
 ---
 
+## 📊 GitHub Stats:
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kc-codes42&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc-codes42&layout=compact&theme=dark&langs_count=8" alt="Top Languages" height="170"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kc-codes42&theme=dark" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/kc-codes42/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" height="170"/>
+  <img src="https://raw.githubusercontent.com/kc-codes42/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" height="170"/>
 </div>
 
 ---
