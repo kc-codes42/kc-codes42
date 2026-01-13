@@ -75,7 +75,7 @@ I'm a passionate software engineer with expertise in building robust, scalable a
 
 ## 📊 GitHub Stats:
 
-<div align="center">
+<div>
   <img src="https://raw.githubusercontent.com/kc-codes42/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" height="170"/>
   <img src="https://raw.githubusercontent.com/kc-codes42/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" height="170"/>
 </div>
